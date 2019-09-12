@@ -3,6 +3,7 @@ body{
     padding: 0;
     font-family: 'Montserrat', sans-serif;
     text-align: center;
+    background-color: darkorange;
 }
 *{
     box-sizing: border-box;
